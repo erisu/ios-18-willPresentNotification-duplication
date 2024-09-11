@@ -1,0 +1,9 @@
+{
+  "Simulator Target Bundle": "com.erisu.cordovaTest",
+  "aps": {
+    "alert": {
+      "title": "Sample Title",
+      "body": "Sample message content.",
+    }
+  }
+}
